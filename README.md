@@ -6,7 +6,7 @@ The repository contains the implementation of the protocol, the simulation scrip
 
 ### Repository structure
 
-The folders `Pure-States` and `Slightly-Mixed-States` contains the code, data and analysis for the estimation of pure states and sligthly mixed states respectively.
+The folders `Pure-States` and `Slightly-Mixed-States` contains the code, data and analysis for the estimation of pure states and slightly mixed states respectively.
 
 Each folder contains:
 
